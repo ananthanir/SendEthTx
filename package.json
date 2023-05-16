@@ -1,0 +1,19 @@
+{
+  "name": "sendethtx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananthanir/SendEthTx.git"
+  },
+  "author": "Ananthan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananthanir/SendEthTx/issues"
+  },
+  "homepage": "https://github.com/ananthanir/SendEthTx#readme"
+}
